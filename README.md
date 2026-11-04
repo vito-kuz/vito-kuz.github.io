@@ -13,7 +13,7 @@ Vitaliy Kuzmych's portfolio website, published at **https://vito-kuz.github.io**
 - **Experience order:** newest first. Your church role is listed first because it is ongoing (Nov 2019 – present).
 - **Contact:** your city (Vancouver, WA) and email (vitkuz3@gmail.com). No phone number or street address anywhere on the site or in the PDF.
 - **Accent color:** one blue. Light mode is the default; dark mode turns on automatically if the visitor's phone or computer is set to dark mode, and there is also a "Dark mode / Light mode" button at the top.
-- **Photo:** your headshot, shrunk to `images/photo.jpg` (about 30 KB) so it loads fast on phones. The original big file you uploaded is still in `images/`, unused; you can delete it. The grey placeholder `images/photo.svg` is kept in case you ever want it back.
+- **Photo:** your headshot, shrunk to `images/photo.jpg` (about 30 KB) so it loads fast on phones. The grey placeholder `images/photo.svg` is kept in case you ever want it back.
 - **resume.pdf:** made from `resume-public.md`, one page, US Letter size. If you change `resume-public.md`, the PDF does **not** update by itself; ask Claude to "regenerate resume.pdf from resume-public.md".
 
 ## What's in this folder
