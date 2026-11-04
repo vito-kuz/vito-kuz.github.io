@@ -1,6 +1,6 @@
 # Vitaliy Kuzmych
 
-vitkuz3@gmail.com
+Vancouver, WA | vitkuz3@gmail.com
 
 ## OBJECTIVE
 
