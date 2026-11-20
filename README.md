@@ -4,13 +4,14 @@ Vitaliy Kuzmych's portfolio website, published at **https://vito-kuz.github.io**
 
 ## Assumptions (decisions made while building)
 
+- **Update, 2026-11-20:** job dates updated to the ones you settled on Nov 19, 2026 (church Sep 2019; River City Painting 2021 – Aug 2022 plus a new "Independent Painting Jobs, 2018 – 2021" entry; contract painting May 2023 – present). `resume-public.md` and `resume.pdf` are now copied from the private workbench (`career/resumes/resume-public.*`), so the PDF has the same plain one-page layout as your other resumes.
 - **Update, 2026-11-04:** added your headshot, "Vancouver, WA" (site Contact section, `resume-public.md` and `resume.pdf`), and a one-line description on every coursework card. The descriptions summarize each school's official catalog (sources below). They describe what each course covers, not anything about your own work in it. The empty engineering-project card was removed; add one once you've done a project, so nothing on the site is made up.
 - **Name on the site:** "Vitaliy Kuzmych", exactly as written in `resume-public.md`.
 - **Sources used:** `resume-public.md` for everything about you; the Clark College and PSU catalogs for the course descriptions only.
 - **Intro (two sentences):** written by rewording the resume's Objective and job list. Nothing new was added.
 - **Project cards:** the resume has one personal project (salvage-vehicle restoration), so the cards also show three things from your church leadership bullets (equipment sign-out system, sheet-music archive, meeting-notes document).
 - **Coursework cards:** one card per course named in the resume, each with a one-line summary of the official catalog description. MTH 261 is Introduction to Linear Algebra and USP 300U is Introduction to Urban Studies (PSU Bulletin).
-- **Experience order:** newest first. Your church role is listed first because it is ongoing (Nov 2019 – present).
+- **Experience order:** newest first. Your church role is listed first because it is ongoing (Sep 2019 – present).
 - **Contact:** your city (Vancouver, WA) and email (vitkuz3@gmail.com). No phone number or street address anywhere on the site or in the PDF.
 - **Accent color:** one blue. Light mode is the default; dark mode turns on automatically if the visitor's phone or computer is set to dark mode, and there is also a "Dark mode / Light mode" button at the top.
 - **Photo:** your headshot, shrunk to `images/photo.jpg` (about 30 KB) so it loads fast on phones. The grey placeholder `images/photo.svg` is kept in case you ever want it back.

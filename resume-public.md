@@ -28,9 +28,11 @@ Civil engineering student seeking an internship or co-op to apply hands-on const
 
 - Performed interior remodel work, including flooring installation, demolition and painting, on residential and commercial properties, solo or as part of a crew.
 
-**Painting Apprentice** — River City Painting LLC, Clackamas, OR | 2018 – Aug 2022
+**Painting Apprentice** — River City Painting LLC, Clackamas, OR | 2021 – Aug 2022
 
 - Prepped and painted residential and commercial surfaces across multiple counties, following strict safety protocols around hazardous chemicals and materials.
+
+**Independent painting jobs** | 2018 – 2021
 
 **Apprentice Technician** — Ford Vancouver (Cascadia Technical Academy placement) | Jan 2022 – May 2022
 
@@ -38,11 +40,11 @@ Civil engineering student seeking an internship or co-op to apply hands-on const
 
 **Small-Engine Repair and Contract Painting** — Self-employed, seasonal | Summers, 2022 – present
 
-- Side work, mostly summers between school terms: diagnose and repair small engines and lawn equipment, managing parts sourcing and customer communication; contract painting with a family member (May–Oct 2023, occasional jobs since).
+- Side work, mostly summers between school terms: diagnose and repair small engines and lawn equipment, managing parts sourcing and customer communication; contract painting with a family member (May 2023 – present, mostly occasional jobs).
 
 ## LEADERSHIP
 
-**Youth Choir Co-Director; Youth and Worship Leader** — Church of Christ the Savior, Vancouver, WA | Nov 2019 – present
+**Youth Choir Co-Director; Youth and Worship Leader** — Church of Christ the Savior, Vancouver, WA | Sep 2019 – present
 
 - Co-direct the youth choir (since May 2026), help lead weekly youth programming, and serve on five rotating worship groups scheduled through Planning Center.
 - Designed an inventory-and-sign-out system for group equipment storage, iterating the design to fit real space and reusability constraints.
