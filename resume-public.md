@@ -60,7 +60,7 @@ Civil engineering student seeking an internship or co-op to apply hands-on const
 
 **Safety:** OSHA-approved S/P2 (automotive service safety, above-ground lifts, pollution prevention); confined spaces; electrical shock and contact release; bloodborne pathogens; BLS CPR/AED and first aid; OSHA-10 Construction (expected November 2026)
 
-**Technical:** ASE entry-level certified (A1, A3, A6, A8); AutoCAD and SolidWorks (intro courses); Civil 3D (basic exposure); Microsoft Excel, Word, PowerPoint; Google Sheets; Planning Center (church scheduling software)
+**Technical:** ASE entry-level certifications, 6 areas (earned 2021–22); AutoCAD and SolidWorks (intro courses); Civil 3D (basic exposure); Microsoft Excel, Word, PowerPoint; Google Sheets; Planning Center (church scheduling software)
 
 **Languages:** English and Russian (native); Ukrainian (fluent)
 
