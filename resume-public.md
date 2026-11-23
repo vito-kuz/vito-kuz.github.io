@@ -62,6 +62,6 @@ Civil engineering student seeking an internship or co-op to apply hands-on const
 
 **Technical:** ASE entry-level certifications, 6 areas (earned 2021–22); AutoCAD and SolidWorks (intro courses); Civil 3D (basic exposure); Microsoft Excel, Word, PowerPoint; Google Sheets; Planning Center (church scheduling software)
 
-**Languages:** English and Russian (native); Ukrainian (fluent)
+**Languages:** English and Russian (native); Ukrainian (fluent); Washington State Seal of Biliteracy (Russian)
 
 **Interests:** Hiking; urban design, infrastructure and city mapping; restoring vehicles
