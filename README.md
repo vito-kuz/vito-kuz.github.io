@@ -4,6 +4,8 @@ Vitaliy Kuzmych's portfolio website, published at **https://vito-kuz.github.io**
 
 ## Assumptions (decisions made while building)
 
+- **Update, 2026-11-24 (website checklist, all approved):** added a custom `404.html` (same look, its own title and description, links home and to the resume; marked "noindex" so search engines skip it), `robots.txt` (lets every search engine in and points to the sitemap), `sitemap.xml` (the home page and the resume), a canonical link on the home page, and a wide share-preview card, `images/share-card.png` (1200×630: your name, "Civil Engineering Student", "Portland State University", the site address and your photo). Links pasted into LinkedIn, texts or email now show the wide card instead of the square photo. Alt text: the site has one image (your photo) and it already had alt text; the rule below keeps it that way.
+- **Alt text rule:** every `<img>` needs an `alt` that says what's in the picture (for example `alt="Photo of Vitaliy Kuzmych"`). Before publishing a change with a new image, check it has one.
 - **Update, 2026-11-20:** job dates updated to the ones you settled on Nov 19, 2026 (church Sep 2019; River City Painting 2021 – Aug 2022 plus a new "Independent Painting Jobs, 2018 – 2021" entry; contract painting May 2023 – present). `resume-public.md` and `resume.pdf` are now copied from the private workbench (`career/resumes/resume-public.*`), so the PDF has the same plain one-page layout as your other resumes.
 - **Update, 2026-11-04:** added your headshot, "Vancouver, WA" (site Contact section, `resume-public.md` and `resume.pdf`), and a one-line description on every coursework card. The descriptions summarize each school's official catalog (sources below). They describe what each course covers, not anything about your own work in it. The empty engineering-project card was removed; add one once you've done a project, so nothing on the site is made up.
 - **Name on the site:** "Vitaliy Kuzmych", exactly as written in `resume-public.md`.
@@ -26,6 +28,10 @@ Vitaliy Kuzmych's portfolio website, published at **https://vito-kuz.github.io**
 | `resume.pdf` | The downloadable resume |
 | `resume-public.md` | The resume text the site and PDF were built from |
 | `images/photo.jpg` | Your photo, as shown on the site |
+| `images/share-card.png` | The preview picture shown when someone shares the site's link (1200×630) |
+| `404.html` | The page people see if they open an address that doesn't exist |
+| `robots.txt` | Tells search engines they may index the site, and where the sitemap is |
+| `sitemap.xml` | List of the site's pages for search engines; update its date when you change the site |
 | `images/photo.svg` | The grey placeholder (not used now) |
 
 ## How to change text (on GitHub's website, no software needed)

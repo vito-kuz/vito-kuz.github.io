@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vito-kuz.github.io/sitemap.xml
